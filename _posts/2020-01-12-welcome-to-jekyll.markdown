@@ -30,4 +30,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 {% include Variable.html %}
 
-[Link to a page]({% _includes/Variable.html %})
+[Link]({% include Variable.html %})
