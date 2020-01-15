@@ -8,6 +8,13 @@ categories: jekyll update
 Victor is a consultant transport planner that has been working in the industry since May 2016. During the course of his carreer he has focused on providing creative solutions to technically complex models. His knowledge of technologies such Python, VBA and R has enabled him approach this solutions in a high efficient way, leading him to create tools a processes that would eventually increase company's eficiency, project's profitability and teams' work consistancy. Victor has taken part in colaborative projects where communication was key and has produced technical reporting.
 
 ## Time line
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 Start – Finish | Position | Team | Location
 --- | --- | --- | --- |
 Jul 2019 – Present | Consultant Transport Planner | Model development and research | St Albans
@@ -17,31 +24,31 @@ Sep 2009 – May 2015 | University Student | Meng civil engineering | Polytechni
 
 ## Project Experience
 
-### A428 Black Cat to Caxton Gibbet Stage2a and Stage 3, H.E., Aug 2019 - Present;
+#### A428 Black Cat to Caxton Gibbet Stage2a and Stage 3, H.E., Aug 2019 - Present;
 Stage2a: Review and recalculate LRoI, SATURN code, variable demand model, Uncertainty log and appraised the scheme’s reliability. Stage 3: Understand the suitability of using TIS data in the matrix-built process, take part in the matrix-built process which was done using R, produce the trip-end model in Access and help understand TUBAs results. Undertake the construction delay traffic modelling and economical assesment.
 
 #### Hertfordshire County Council (HCC), COMET Update - MRT, Sep-Oct 2019;
 Victor included the necessary changes to the Emme based variable demand model (vdm) to accommodate the two new user classes, Bus-Rail and MRT. This included updating the variable demand Emme macros, extracting the information from the run outputs and handing them over with the necessary explications. 
 
-### COMET enhancement for JAQU, Hertfordshire County Council, March-Nov 2019; 
+#### COMET enhancement for JAQU, Hertfordshire County Council, March-Nov 2019; 
 Adapt the COMET Emme based variable demand model to forecast choice responses between compliant and non-compliant vehicles, toll users and non-toll users, residents and non-residents, and the different purposes, when the proposed air quality interventions were in place. Help understand and communicate the results.
 
-### Journey time routes processor, AECOM tools, November 2019; 
+#### Journey time routes processor, AECOM tools, November 2019; 
 Based on existing R process, Victor revised this and build a tool to process Traffic Master journey time data and compare it model data using Python. The tool interacts with SATURN and automatically produces geographical routes plots, validation plots and summary tables.
 
-### AECOM_SATURN Python package, AECOM tools, October 2019; 
+#### AECOM_SATURN Python package, AECOM tools, October 2019; 
 Develop a Python package capable of interacting with SATURN exes and use SATURN formats. The package includes reading and write UFMs extract data from UFS, running assignments, produce .GIS file from a shp file, produce link flow difference plots in html format and colour coded zone data plots. 
 
-### East-West Rail - Highway Network Impact Assessment in Central Bedfordshire, Network Rail, Jan-March 2019;
+#### East-West Rail - Highway Network Impact Assessment in Central Bedfordshire, Network Rail, Jan-March 2019;
 Forecast the impact of East-West-rail’s different options on Bedfordshire roads using forecasted rail travel data and the CBLTM. This encompassed from translating rail travel data to vehicle trips to defining the catchment areas and distributing trips amongst these.
 
-### A47-A11 Thickthorn Junction, H.E., Feb-Aug 2017;
+#### A47-A11 Thickthorn Junction, H.E., Feb-Aug 2017;
 Check the SATURN network code, asses the model’s validation, perform junction turn analysis, produce sensitivity test analysis on the network’s signals, run COBALT (COst and Benefit to Accidents – Light Touch) for the scheme, run TUBA for the scheme and report.
 
-### UTG Bus boarding/alighting model, Nexus, June-Aug 2017;
+#### UTG Bus boarding/alighting model, Nexus, June-Aug 2017;
 Write VBA model capable of estimating alighting stations for senior-citizen-person card holders bus users. The task was very data intense and required a good understanding of VBA programming. The project had a follow-up of similar characteristics in Sep-Oct 2018.
 
-### M1 Junction 13 to 16 SMART motorway, H.E., May 2016 - March 2017;
+#### M1 Junction 13 to 16 SMART motorway, H.E., May 2016 - March 2017;
 SATURN network coding, TUBA (Transport Users Benefit Appraisal) runs, COBALT, MyRIAD (Motorway Reliability Incidents and Delays), Construction delay economic assessment, speed banding analysis for noise and air quality modelling and sensitivity growth testing.
 
 
