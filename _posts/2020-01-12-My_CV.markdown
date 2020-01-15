@@ -5,45 +5,53 @@ date:   2020-01-13 12:15:02 +0000
 categories: jekyll update
 ---
 ## Summary
-Victor is a consultant transport planner that has been working in the industry since May 2016. During the course of his carreer he has focused on providing creative solutions to technically complex models. His knowledge of technologies such Python, VBA and R has enabled him approach this solutions in a high efficient way, leading him to create tools a processes that would eventually increase company's eficiency, project's profitability and teams' work consistancy. Victor has taken part in colaborative projects where communication was key and has produced technical reporting.
+Victor is a consultant transport planner that has been working in the industry since May 2016. During the course of his career he has focused on providing creative solutions to technically complex models. His knowledge of technologies such Python, VBA and R has enabled him to approach these solutions in a highly efficient way, leading him to create tools a processes that would eventually increase the company's efficiency, project's profitability and teams' work consistency. Victor has taken part in collaborative projects where communication was key and has produced technical reporting.
 
 ## Time line
 
 Start – Finish | Position | Team | Location
---- | --- | --- | --- |
+--- | --- | --- | --- 
 Jul 2019 – Present | Consultant Transport Planner | Model development and research | St Albans
 Jul 2018 – Jul 2019 | Graduate Transport Planner | Model development and research | St Albans
 May 2016 – Jun 2018 | Graduate Transport Planner | Highways Strategy | Bedford
-Sep 2009 – May 2015 | University Student | Meng civil engineering | Polytechnic University of Madrid
+Sep 2009 – May 2015 | University Student | Meng in Civil Engineering | Polytechnic University of Madrid
+
+## Licenses & Certifications
+Issuing body | Accreditation obtained | Date of issue | ID | Diploma  
+--- | --- | --- | --- | ---
+Data Camp | Data Scientist with Python | Sep 2019 | 100,610 | [Statement of accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/0c6a9fa4596a93fb30124fb7a8c007aecf4e86b0?share=1)
+CAPM | Project Management Institute | Dec 2024 | 1785304 |
+
 
 ## Project Experience
 
 #### A428 Black Cat to Caxton Gibbet Stage2a and Stage 3, H.E., Aug 2019 - Present;
-Stage2a: Review and recalculate LRoI, SATURN code, variable demand model, Uncertainty log and appraised the scheme’s reliability. Stage 3: Understand the suitability of using TIS data in the matrix-built process, take part in the matrix-built process which was done using R, produce the trip-end model in Access and help understand TUBAs results. Undertake the construction delay traffic modelling and economical assesment.
-
-#### Hertfordshire County Council (HCC), COMET Update - MRT, Sep-Oct 2019;
-Victor included the necessary changes to the Emme based variable demand model (vdm) to accommodate the two new user classes, Bus-Rail and MRT. This included updating the variable demand Emme macros, extracting the information from the run outputs and handing them over with the necessary explications. 
-
-#### COMET enhancement for JAQU, Hertfordshire County Council, March-Nov 2019; 
-Adapt the COMET Emme based variable demand model to forecast choice responses between compliant and non-compliant vehicles, toll users and non-toll users, residents and non-residents, and the different purposes, when the proposed air quality interventions were in place. Help understand and communicate the results.
+Stage 2a: Victor recalculated the Likely region of interest for the model, participated in the SATURN coding of the scheme and performed the variable demand modelling. He also assessed the Uncertainty log used and appraised the scheme’s reliability. Stage 3: Victor studied the suitability of using TIS data in the matrix building process. He took part in the matrix building process, which was done using R. Victor developed the trip-end model in Access and helped understand TUBAs results obtained. He finally undertook the construction delay traffic modelling and economical assessment.
 
 #### Journey time routes processor, AECOM tools, November 2019; 
 Based on existing R process, Victor revised this and build a tool to process Traffic Master journey time data and compare it model data using Python. The tool interacts with SATURN and automatically produces geographical routes plots, validation plots and summary tables.
 
 #### AECOM_SATURN Python package, AECOM tools, October 2019; 
-Develop a Python package capable of interacting with SATURN exes and use SATURN formats. The package includes reading and write UFMs extract data from UFS, running assignments, produce .GIS file from a shp file, produce link flow difference plots in html format and colour coded zone data plots. 
+One od Victor's great contributions was to develop a Python package capable of interacting with SATURN exes and use SATURN formats. The package includes reading and write UFMs extract data from UFS, running assignments, produce .GIS file from a shp file, produce link flow difference plots in html format and colour coded zone data plots. 
+
+#### COMET enhancement for JAQU, Hertfordshire County Council, March-Nov 2019; 
+Victor undertook the adaptation of the COMET Emme based variable demand model to forecast choice responses between compliant and non-compliant vehicles, toll users and non-toll users, residents and non-residents and the different purposes, when the proposed air quality interventions were in place. He also helped understand and communicate the results.
+
+#### Hertfordshire County Council (HCC), COMET Update - MRT, Sep-Oct 2019;
+Victor included the necessary changes to the Emme based variable demand model (vdm) to accommodate the two new user classes, Bus-Rail and MRT. This included updating the variable demand Emme macros, extracting the information from the run outputs and handing them over with the necessary explications. 
 
 #### East-West Rail - Highway Network Impact Assessment in Central Bedfordshire, Network Rail, Jan-March 2019;
-Forecast the impact of East-West-rail’s different options on Bedfordshire roads using forecasted rail travel data and the CBLTM. This encompassed from translating rail travel data to vehicle trips to defining the catchment areas and distributing trips amongst these.
+The product delivered and produced by Victor was forecasting the impact of East-West-rail’s different options on Bedfordshire roads using forecasted rail travel data and the CBLTM. This encompassed from translating rail travel data to vehicle trips to defining the catchment areas and distributing trips amongst these.
+
+#### UTG Bus boarding/alighting model, Nexus, June-Aug 2017 : Sep-Oct 2018;
+Victor Wrote a VBA model capable of estimating alighting stations for bus senior-citizen-person card holders. The task was very data intense and required a good understanding of VBA programming. The project had a follow-up of similar characteristics in.
+
+## Luton Airport expansion, July-Aug 2018; 
+Victor took a major role in reviewing and recoding the SATURN network that was based on the Central Bedfordshire and Luton Transport Model (CBLTM). 
 
 #### A47-A11 Thickthorn Junction, H.E., Feb-Aug 2017;
-Check the SATURN network code, asses the model’s validation, perform junction turn analysis, produce sensitivity test analysis on the network’s signals, run COBALT (COst and Benefit to Accidents – Light Touch) for the scheme, run TUBA for the scheme and report.
-
-#### UTG Bus boarding/alighting model, Nexus, June-Aug 2017;
-Write VBA model capable of estimating alighting stations for senior-citizen-person card holders bus users. The task was very data intense and required a good understanding of VBA programming. The project had a follow-up of similar characteristics in Sep-Oct 2018.
+Checking the SATURN network code, assessing the model’s validation, performing junction turn analysis, producing sensitivity test analysis on the network’s signals, running COBALT (COst and Benefit to Accidents – Light Touch) for the scheme, running TUBA for the scheme and reporting results where some of the tasks Victor undertook for this project.
 
 #### M1 Junction 13 to 16 SMART motorway, H.E., May 2016 - March 2017;
-SATURN network coding, TUBA (Transport Users Benefit Appraisal) runs, COBALT, MyRIAD (Motorway Reliability Incidents and Delays), Construction delay economic assessment, speed banding analysis for noise and air quality modelling and sensitivity growth testing.
-
-
+The first project Victor was involved in brought him the following experience: SATURN network coding, TUBA (Transport Users Benefit Appraisal) running, COBALT, MyRIAD (Motorway Reliability Incidents and Delays), Construction delay economic assessment, speed banding analysis for noise and air quality modelling and sensitivity growth testing.
 

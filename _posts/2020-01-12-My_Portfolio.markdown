@@ -4,10 +4,10 @@ title:  "Portfolio"
 date:   2020-01-13 12:15:01 +0000
 categories: jekyll update
 ---
-This post sumuraises some of the interesting projects I've carried out and tools I've developed. In both cases it provides links to jupyter notebooks where you'll be able look code used and results obtained in more detail. Some of projects are personal and therefore not subject to any property rights. Some of the tools have been developed for AECOM and therefore the code cannot be diclosure but it's still interesting to see their functionality.
+This post summarises some of the projects I've carried out and tools I've developed. In both cases it provides links to Jupyter notebooks where you'll be able to look at the code used, and results obtained in detail.
 
 
-## GB Accidents 2005-2015 Database. Case of study.
+## GB Accidents 2005-2015 - Case of study.
 
 This case of study is an opportunity to learn and see how every day data science tasks are performed, while learning interesting key points about GB's road accidents between 2005 and 2015.
 
