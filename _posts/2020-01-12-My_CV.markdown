@@ -9,12 +9,6 @@ Victor is a consultant transport planner that has been working in the industry s
 
 ## Time line
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 Start – Finish | Position | Team | Location
 --- | --- | --- | --- |
 Jul 2019 – Present | Consultant Transport Planner | Model development and research | St Albans
