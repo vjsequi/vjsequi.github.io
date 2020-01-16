@@ -7,13 +7,13 @@ categories: jekyll update
 This post summarises some of the projects I've carried out and tools I've developed. In both cases it provides links to Jupyter notebooks where you'll be able to look at the code used, and results obtained in detail.
 
 
-## GB Accidents 2005-2015 - Case of study.
+### GB Accidents 2005-2015 - Case of study.
 
 This case of study is an opportunity to learn and see how every day data science tasks are performed, while learning interesting key points about GB's road accidents between 2005 and 2015.
 
 [GB's road accident data (2005 - 2015) analysed](/Files/Case_of_study.html)
 
-## AECOM_SATURN Python package
+### AECOM_SATURN Python package
 
 This Notebook shows a sample of the functions and features that the package that I developed for AECOM encompasses.
 
@@ -21,4 +21,4 @@ This Notebook shows a sample of the functions and features that the package that
 
 [SATURN Package Sample2](/Files/AECOM_SATURN2.html)
 
-## Score predictor
+### Score predictor
