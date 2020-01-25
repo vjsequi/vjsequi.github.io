@@ -11,7 +11,7 @@ This post summarises some of the projects I've carried out and tools I've develo
 
 This case of study is an opportunity to learn and see how every day data science tasks are performed, while learning interesting key points about GB's road accidents between 2005 and 2015.
 
-[GB's road accident data (2005 - 2015) analysed](/Files/Case_of_study.html)
+[GB's road accident data (2005 - 2015)](/Files/Case_of_study.html)
 
 ### AECOM_SATURN Python package
 
@@ -24,7 +24,7 @@ This Notebook shows a sample of the functions and features that the package that
 ### Football Score predictor
 One of the "hello worlds" of many data scientist into machine learning
 is a score predictor machine, being it for tennis, football or any other sport.
-It's appealing beacuse there's a lot of data available, because it can
+It's appealing because there's a lot of data available, because it can
 be used for betting and because sports are fun.
 
 [Football Score predictor](/Files/Football_predictor_AI.html)
