@@ -4,7 +4,7 @@ title:  "Portfolio"
 date:   2020-01-13 12:15:01 +0000
 categories: jekyll update
 ---
-{% include analytics.html %}s
+{% include analytics.html %}
 This post summarises some of the projects I've carried out and tools I've developed. In both cases it provides links to Jupyter notebooks where you'll be able to look at the code used, and results obtained in detail.
 
 
