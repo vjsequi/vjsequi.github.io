@@ -4,6 +4,7 @@ title:  "CV"
 date:   2020-01-13 12:15:02 +0000
 categories: jekyll update
 ---
+{% include analytics.html %}
 ## Summary
 Victor is a consultant transport planner that has been working in the industry since May 2016. During the course of his career he has focused on providing creative solutions to technical complex problems. His knowledge of technologies such Python, VBA and R has enabled him to approach these solutions in a highly efficient way. Leading him to create tools and processes that would eventually increase the company’s efficiency, project’s profitability and teams’ work consistency. Victor has taken part in collaborative projects where communication was key and has produced technical reporting.
 
