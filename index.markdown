@@ -4,4 +4,4 @@
 layout: home
 
 ---
-{% include analytics.html %}
+{% include Analytics.html %}

@@ -4,7 +4,7 @@ title:  "After work"
 date:   2020-01-13 12:15:00 +0000
 categories: jekyll update
 ---
-{% include analytics.html %}
+{% include Analytics.html %}
 This is the most relaxed part of the website, where I talk a little bit about myself and about my interests outside work.
 
 I was born and raised in Madrid where, as many boys of my generation, dreamt to be a football player for the Real Madrid FC. At the age of 11 I started to develop interest in music and decided to hang my boots. Music kept me busy for about the next 11 years, between clarinet classes, music theory, music language, harmony, musical analysis... 
