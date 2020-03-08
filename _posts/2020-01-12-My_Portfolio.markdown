@@ -23,7 +23,7 @@ This Notebook shows a sample of the functions and features that the package that
 [SATURN Package Sample2](/Files/AECOM_SATURN2.html)
 
 ### Football Score predictor
-One of the "hello worlds" of many data scientist into machine learning
+One of the "hello world" of many data scientist into machine learning
 is a score predictor machine, being it for tennis, football or any other sport.
 It's appealing because there's a lot of data available, because it can
 be used for betting and because sports are fun.
