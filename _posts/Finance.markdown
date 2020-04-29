@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Finance"
+date:   2020-01-13 12:00:00 +0000
+categories: jekyll update
+---
+{% include Analytics.html %}
+After a few years in the workplace you have managed to save some money and are looking for a good way to invest it, the best way to make your savings work for you. Managed funds, especially through government tax exempt instruments (such as ISA) are the obvious choice and indeed you make the most of it. But there is something else that is bugging. There is this friend of your sister in law cousin who manages to get higher returns by taking a hands-on approach on their investments on the stock market.
+
+Surely it can't be so difficult, you mistakenly think, I'm a science person, a person of reasoning and numbers. There must be a way, a formula, a method that can make money consistently on Wall street. Furthermore, I can now use my coding skills to get an even greater edge and implement machine learning to make forecasts. I can automate everything and create a bot that would make the investment decisions for me and learn from its mistakes using reinforce learning. I am a genius and also the first person who's thought about this. 1 year before you went broke and moved in back with your parents.
+
+Jokes aside, stock trading can be a fascinating subject. This field has been thoroughly studied by many and the amount information available is quite remarkable. It being investment methodologies, market theories and market information. It is fairly simple to find stock price history by the minute going back 20 years. Many websites show the stocks history, trends, company's finances, press releases, main stock holders.
+
+In this post I will be focusing on how to use the data available for value investing. Value investing is an investment strategy that involves picking stocks that appear to be trading for less than their intrinsic or book value. Value investors actively ferret out stocks they think the stock market is underestimating. They believe the market overreacts to good and bad news, resulting in stock price movements that do not correspond to a company's long-term fundamentals. The overreaction offers an opportunity to profit by buying stocks at discounted prices—on sale.
+
+Warren Buffett is probably the best-known value investor today, but there are many others, including Benjamin Graham (Buffet's professor and mentor), David Dodd, Charlie Munger, Christopher Browne (another Graham student), and billionaire hedge-fund manager, Seth Klarman.
+
+Disclaimer: This is not intended as financial advice. It's merely an example of how one may use Python as a valuable tool in research tasks.
+
+### Fetching the data
+
+To be able to evaluate a company's fundamentals we need some key information such as the balance-sheet, the cash-flow records, and the income statements. The next Jupiter notebook will show you how to get this data using two different methodologies. Web scraping and API requests. 
+
+[Web Scrapping yahoo finance](/Files/web_scrapping.html)
+
+### Key notions on value investing
+
+
+### Screeaning for investment information
+
+
+### Decision making algorithm
+
+
+### Performance evaluation on historic data.

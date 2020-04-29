@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "After work"
-date:   2020-01-13 12:15:00 +0000
+date:   2020-01-13 12:00:02 +0000
 categories: jekyll update
 ---
 {% include Analytics.html %}
