@@ -26,7 +26,7 @@ To be able to evaluate a company's fundamentals we need some key information suc
 [financialmodellingprep API](/Files/financialmodellingprep.html)
 
 ### Key notions on value investing
-[Test]({% post_url /_other_posts/2020-01-13-Test %})
+[Test]({% post_url /_other_posts/Test %})
 
 ### Screeaning for investment information
 
