@@ -28,6 +28,9 @@ linkedin_username: VictorSequi
 github_username:  vjsequi
 
 # Build settings
+collections:
+  other_posts:
+    output: true
 theme: minima
 plugins:
   - jekyll-feed
