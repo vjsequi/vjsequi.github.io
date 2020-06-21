@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CV"
-date:   2020-01-13 12:00:04 +0000
+date:   2020-01-13 12:00:07 +0000
 categories: jekyll update
 ---
 {% include Analytics.html %}
