@@ -7,6 +7,18 @@ categories: jekyll update
 {% include Analytics.html %}
 Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. In this post I link several personal projects I've worked on where I apply data science techniques and methodologies, from EDA (explanatory data analysis) to forecasting machine learning models.
 
+### Titanic.
+
+The Titanic challenge is a classic introductory machine learning challenge in the Data Science universe.
+
+The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone on board, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+[Titanic EDA](/Files/Titanic_EDA.html)
+
+[Titanic Model development](/Files/Titanic_model_development.html)
+
 ### GB Accidents 2005-2015 - Case of study.
 
 This case of study is an opportunity to learn and see how every day data science tasks are performed, while learning interesting key points about GB's road accidents between 2005 and 2015.
