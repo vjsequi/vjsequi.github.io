@@ -37,6 +37,8 @@ be used for betting and because sports are fun.
 
 To be able to evaluate a company's fundamentals we need some key information such as the balance-sheet, the cash-flow records, and the income statements. The next Jupiter notebooks will show you how to get this data using two different methodologies. Web scraping and API requests. It must be noted that the second methodology is more robust and not susceptible to web layout changes.
 
+[Web scrapping financialmodellingprep with selenium](/Files/Data_scraping_with_selenium.html)
+
 [Web scrapping yahoo finance](/Files/web_scrapping.html)
 
 [financialmodellingprep API](/Files/financialmodellingprep.html)
