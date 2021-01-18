@@ -7,6 +7,14 @@ categories: jekyll update
 {% include Analytics.html %}
 This post summarises some of the projects I've carried out and tools I've developed. In both cases it provides links to Jupyter notebooks where you'll be able to look at the code used, and results obtained in detail.
 
+### New York City Airbnb Open Data
+
+Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
+
+In this on-going project I explore the data available. In further updates, I will be building a price predictive model based on the characteristics of the rented properties including its user comments if any.
+
+[New_York_City_Airbnb_Open_Data](/Files/New York City Airbnb Open Data.html)
+
 ### Titanic.
 
 The Titanic challenge is a classic introductory machine learning challenge in the Data Science universe.

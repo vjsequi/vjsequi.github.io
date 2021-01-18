@@ -19,11 +19,13 @@ Jul 2018 – Jul 2019 | Graduate Transport Planner | Model development and resea
 May 2016 – Jun 2018 | Graduate Transport Planner | Highways Strategy | AECOM (Bedford)
 Sep 2009 – May 2015 | University Student | Meng in Civil Engineering | Polytechnic University of Madrid
 
-## Certifications
+## Degrees, Qualifications and Certifications
 
 | Issuing body | Accreditation obtained       | Date of issue | ID      | Diploma                                                                                                                                    |
 | ------------ | ---------------------------- | ------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| ColumbiaX    | MicroMaster in Business Analytics | On going | NA      | [ Program Record](https://credentials.edx.org/records/programs/shared/0a580345956b40fab818051caf0d9142/)
 | Data Camp    | Data Scientist with Python   | Sep 2019      | 100,610 | [Statement of accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/0c6a9fa4596a93fb30124fb7a8c007aecf4e86b0?share=1) |
+| UPM          | MEng in Civil engineering    | Jun 2015      | NA      | Only in paper format|
 | CAPM         | Project Management Institute | Dec 2014      | 1785304 | [Certification](/Files/Certification_1785304.JPG)                                                                                                               |
 
 

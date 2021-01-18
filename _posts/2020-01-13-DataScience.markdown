@@ -7,6 +7,14 @@ categories: jekyll update
 {% include Analytics.html %}
 Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. In this post I link several personal projects I've worked on where I apply data science techniques and methodologies, from EDA (explanatory data analysis) to forecasting machine learning models.
 
+### New York City Airbnb Open Data
+
+Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
+
+In this on-going project I explore the data available. In further updates, I will be building a price predictive model based on the characteristics of the rented properties including its user comments if any.
+
+[New_York_City_Airbnb_Open_Data](/Files/New York City Airbnb Open Data.html)
+
 ### Titanic.
 
 The Titanic challenge is a classic introductory machine learning challenge in the Data Science universe.
