@@ -13,7 +13,7 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 
 In this on-going project I explore the data available. In further updates, I will be building a price predictive model based on the characteristics of the rented properties including its user comments if any.
 
-[New_York_City_Airbnb_Open_Data](/Files/New York City Airbnb Open Data.html)
+[New York City Airbnb Open Data](/Files/New_York_City_Airbnb_Open_Data.html)
 
 ### Titanic.
 
