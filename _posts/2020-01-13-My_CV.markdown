@@ -6,15 +6,15 @@ categories: jekyll update
 ---
 {% include Analytics.html %}
 ## Summary
-Victor is a Senior Transport Analyst at Citi Logik, a transport analytics company that derives most of its insights from Mobile Network Data (MND). In his role, Victor engages in a wide range of activities such as developing new data-driven products, improving the current algorithms and gaining insights from data sets. He also takes part in client engagement meetings, plays a role in organising the analysts' team and supervises and mentors junior analysts. He works daily with data engineers, front-end developers and product managers. The high demands of his position have exposed him to a broad set of problems and situations that he has been able to solve through reasoning, research, pragmatism and hard work. The area of his job that he is most appreciative of is finding and designing solutions that bring insights from data and are useful to make informed decisions in the world.
+Victor's latest professional experience was as a Senior Transport Data Analyst at Citi Logik, a transport analytics company that derived most of its insights from Mobile Network Data (MND). In his role, Victor engaged in a wide range of activities such as developing new data-driven products, improving the current algorithms and gaining insights from data. He also took part in client engagement meetings, played a role in organising the analysts' team and supervised and mentored junior analysts. He worked daily with data engineers, front-end developers and product managers. The high demands of his position exposed him to a broad set of problems and situations that he was able to solve through reasoning, research, pragmatism and hard work. The area of expertise that he is most appreciative of is finding and designing solutions that bring insights from data and are useful to make informed decisions in the world.
 
-[One-page CV](/Files/Victor J. Sequi C.V.)
+[CV](/Files/VictorJ.SequiC.V..html)
 
 ## Time line
 
 Start – Finish | Position | Department | Institution
 --- | --- | --- | --- 
-April 2021 – Present | Senior Transport Data Analyst| Development and Research | Citi Logik (Leeds)
+April 2021 – Nov 2022 | Senior Transport Data Analyst| Development and Research | Citi Logik (Leeds)
 Jul 2019 – April 2021 | Consultant Transport Planner | Model development and research | AECOM (St Albans)
 Jul 2018 – Jul 2019 | Graduate Transport Planner | Model development and research | AECOM (St Albans)
 May 2016 – Jun 2018 | Graduate Transport Planner | Highways Strategy | AECOM (Bedford)
@@ -37,27 +37,27 @@ Sep 2009 – May 2015 | University Student | MEng in Civil Engineering | Polytec
 
 **Products**
 #### Electric Vehicles Charge Point Insights and Utilisation Forecast
-Victor developed the methodology and code of the PySpark data pipeline that took MND derived journeys to provide insights on EV trips, visits, and dwellings to evaluate potential charge points. 
-This product included a machine learning forecasting model that Victor developed. It was trained using MND traffic as input and the known utilisation as a target. This was one of the top-selling products CL offered.
+Victor developed the methodology and code of the PySpark data pipeline that took MND-derived journeys to provide insights on EV trips, visits, and dwellings to evaluate potential charge points. 
+This product included a machine learning forecasting model that Victor developed. It was trained using MND traffic as input and known utilisation as a target. This was one of the top-selling products CL offered.
 
 #### Locations Insights
 Similarly to the Electric Vehicles product above, Victor designed the end-to-end PySpark data analysis pipeline. the product that provided insights on the trips, the visits and the dwellings a point of interest or area received over the course of a period.
 
 #### Detailed Traversing Insights Research
-Victor conducted research to develop a methodology to provide detailed traversing trip insights. The methodology was based on using MND observed traces and road link network analysis to derive traversing traffic charactersitics for each main-road road link in the UK.
+Victor conducted research to develop a methodology to provide detailed traversing trip insights. The methodology was based on using MND observed traces and road link network analysis to derive traversing traffic characteristics for each main-road road link in the UK.
 
 #### Conventional Transport Projects
-Victor took part in the delivery of trip demand matrices for conventional transport planning projects where an area was defined and people-trip-OD matrices with purpose, mode and time-period were calculated for use in demand modelling.
+Victor took part in the delivery of trip demand matrices for conventional transport planning projects where an area was defined and people-trip-OD matrices with purpose, mode and time-period were calculated for use in demand modelling. This type of projects were handled almost exclusively in SQL.
 
 **Tools**
 #### Expansion, From Device to Population
-A break through development was made by Victor when he re-invented the expansion methodology. The new methodology improved the reliability, reproducibility and speed of the expansion process while making it completely hands-off. This made all the other projects feasible from a technical and business perspective.
+A breakthrough development was made by Victor when he re-invented the expansion methodology. The new methodology improved the reliability, reproducibility and speed of the expansion process while making it completely hands-off. This made all the other projects feasible from a technical and business perspective.
 
 #### Active Mode Detection
 Victor undertook a complete review of the active mode detection algorithm that greatly improved its performance. The new methodology used National Travel Survey data to fit behavioural trip models that could identify whether an active mode of transport (walk and cycle) was used on an observed trip.
 
 #### Zone System Creation
-The new products required a hands-off zone system creation tool that would create an ad hoc geographical zone system for any point of interest in the UK. Victor successfully undertook the task of coding such tool in Python.
+The new products required a hands-off zone system creation tool that would create an ad hoc geographical zone system for any point of interest in the UK. Victor successfully undertook the task of coding such a tool in Python.
 
 #### Cell-to-Zone Conversion
 The new products required a much higher geographical granularity to have meaningful results. Victor developed a new cell-to-zone conversion methodology that greatly increased the granularity of MND-derived trips.
@@ -100,5 +100,3 @@ Checking the SATURN network code, assessing the model’s validation, performing
 
 #### M1 Junction 13 to 16 SMART motorway, H.E., May 2016 - March 2017;
 This was the first project Victor was involved in and it brought him the following experience: SATURN network coding, TUBA (Transport Users Benefit Appraisal) running, COBALT, MyRIAD (Motorway Reliability Incidents and Delays), Construction delay economic assessment, speed banding analysis for noise and air quality modelling and sensitivity growth testing.
-
-
