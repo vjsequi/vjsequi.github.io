@@ -6,61 +6,99 @@ categories: jekyll update
 ---
 {% include Analytics.html %}
 ## Summary
-Victor is a consultant transport planner that has been working in the industry since May 2016. During the course of his career he has focused on providing creative solutions to technical complex problems. His knowledge of technologies such Python, VBA and R has enabled him to approach these solutions in a highly efficient way. Leading him to create tools and processes that would eventually increase the company’s efficiency, project’s profitability and teams’ work consistency. Victor has taken part in collaborative projects where communication was key and has produced technical reporting.
+Victor is a Senior Transport Analyst at Citi Logik, a transport analytics company that derives most of its insights from Mobile Network Data (MND). In his role, Victor engages in a wide range of activities such as developing new data-driven products, improving the current algorithms and gaining insights from data sets. He also takes part in client engagement meetings, plays a role in organising the analysts' team and supervises and mentors junior analysts. He works daily with data engineers, front-end developers and product managers. The high demands of his position have exposed him to a broad set of problems and situations that he has been able to solve through reasoning, research, pragmatism and hard work. The area of his job that he is most appreciative of is finding and designing solutions that bring insights from data and are useful to make informed decisions in the world.
 
-[One-page CV](/Files/VictorSequiC.V..html)
+[One-page CV](/Files/Victor J. Sequi C.V.)
 
 ## Time line
 
 Start – Finish | Position | Department | Institution
 --- | --- | --- | --- 
-Jul 2019 – Present | Consultant Transport Planner | Model development and research | AECOM (St Albans)
+April 2021 – Present | Senior Transport Data Analyst| Development and Research | Citi Logik (Leeds)
+Jul 2019 – April 2021 | Consultant Transport Planner | Model development and research | AECOM (St Albans)
 Jul 2018 – Jul 2019 | Graduate Transport Planner | Model development and research | AECOM (St Albans)
 May 2016 – Jun 2018 | Graduate Transport Planner | Highways Strategy | AECOM (Bedford)
-Sep 2009 – May 2015 | University Student | Meng in Civil Engineering | Polytechnic University of Madrid
+Sep 2009 – May 2015 | University Student | MEng in Civil Engineering | Polytechnic University of Madrid
 
 ## Degrees, Qualifications and Certifications
 
 | Issuing body | Accreditation obtained       | Date of issue | ID      | Diploma                                                                                                                                    |
 | ------------ | ---------------------------- | ------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| ColumbiaX    | MicroMaster in Business Analytics | On going | NA      | [ Program Record](https://credentials.edx.org/records/programs/shared/0a580345956b40fab818051caf0d9142/)
+| MITX          | Machine Learning with Python-From Linear Models to Deep Learning | Nov 2021 | NA | [Verified Certificate](https://courses.edx.org/certificates/e20ab7c7e954439db533f48ee74d0fcc)|
+| ColumbiaX    | MicroMaster in Business Analytics | May 2021 | NA      | [ Program Record](https://credentials.edx.org/records/programs/shared/0a580345956b40fab818051caf0d9142/)|
 | Data Camp    | Data Scientist with Python   | Sep 2019      | 100,610 | [Statement of accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/0c6a9fa4596a93fb30124fb7a8c007aecf4e86b0?share=1) |
 | UPM          | MEng in Civil engineering    | Jun 2015      | NA      | Only in paper format|
-| CAPM         | Project Management Institute | Dec 2014      | 1785304 | [Certification](/Files/Certification_1785304.JPG)                                                                                                               |
+| CAPM         | Project Management Institute | Dec 2014      | 1785304 | [Certification](/Files/Certification_1785304.JPG)                                                                                          |
 
 
 ## Project Experience
 
-### A428 Black Cat to Caxton Gibbet Stage2a and Stage 3, H.E., Aug 2019 - Present;
+### Citi Logik - Senior Transport Analyst - Research, Development & Operations. Extract, structure and present all the information contained in Mobile Network Data (MND).
+
+**Products**
+#### Electric Vehicles Charge Point Insights and Utilisation Forecast
+Victor developed the methodology and code of the PySpark data pipeline that took MND derived journeys to provide insights on EV trips, visits, and dwellings to evaluate potential charge points. 
+This product included a machine learning forecasting model that Victor developed. It was trained using MND traffic as input and the known utilisation as a target. This was one of the top-selling products CL offered.
+
+#### Locations Insights
+Similarly to the Electric Vehicles product above, Victor designed the end-to-end PySpark data analysis pipeline. the product that provided insights on the trips, the visits and the dwellings a point of interest or area received over the course of a period.
+
+#### Detailed Traversing Insights Research
+Victor conducted research to develop a methodology to provide detailed traversing trip insights. The methodology was based on using MND observed traces and road link network analysis to derive traversing traffic charactersitics for each main-road road link in the UK.
+
+#### Conventional Transport Projects
+Victor took part in the delivery of trip demand matrices for conventional transport planning projects where an area was defined and people-trip-OD matrices with purpose, mode and time-period were calculated for use in demand modelling.
+
+**Tools**
+#### Expansion, From Device to Population
+A break through development was made by Victor when he re-invented the expansion methodology. The new methodology improved the reliability, reproducibility and speed of the expansion process while making it completely hands-off. This made all the other projects feasible from a technical and business perspective.
+
+#### Active Mode Detection
+Victor undertook a complete review of the active mode detection algorithm that greatly improved its performance. The new methodology used National Travel Survey data to fit behavioural trip models that could identify whether an active mode of transport (walk and cycle) was used on an observed trip.
+
+#### Zone System Creation
+The new products required a hands-off zone system creation tool that would create an ad hoc geographical zone system for any point of interest in the UK. Victor successfully undertook the task of coding such tool in Python.
+
+#### Cell-to-Zone Conversion
+The new products required a much higher geographical granularity to have meaningful results. Victor developed a new cell-to-zone conversion methodology that greatly increased the granularity of MND-derived trips.
+
+#### Optimal Catchment Area
+When studying a point of interest a catchment area has to be defined for trips and visits to be captured. Victor designed a Python tool that studied the cell density covering an area and allocated the optimal catchment radius.
+
+#### Demographics
+Victor worked on exploring solutions that could provide demographic information for trips and visits. He supervised junior members of the team on the use of classification algorithms that could detect and use behavioural trip-making differences between demographic segments.
+
+### AECOM - Consultant Transport Planner - Model Development and Research (St Albans/Bedford). Build transport models, research and evaluate transport-related data
+#### A428 Black Cat to Caxton Gibbet Stage2a and Stage 3, H.E., Aug 2019 - Present;
 Stage 3: Victor studied the suitability of using TIS data in the matrix building process. He took part in the matrix building process, which was done using R. Victor developed the trip-end model in Access and helped understand the Transport users benefit appraisal (TUBA) results obtained. He finally undertook the construction delay traffic modelling and economical assessment.
 
 Stage 2a: Victor recalculated the likely region of interest for the model, participated in the SATURN coding of the scheme and performed the variable demand modelling. He also assessed the Uncertainty log used and appraised the scheme’s reliability. 
 
-### Journey time routes processor, AECOM tools, November 2019;
+#### Journey time routes processor, AECOM tools, November 2019;
 Based on an existing R process, Victor revised this and build a tool to process Traffic Master journey time data and compare it to model results using Python. The tool interacts with SATURN and automatically produces geographical route plots, validation plots and summary tables.
 
-### AECOM_SATURN Python package, AECOM tools, October 2019;
+#### AECOM_SATURN Python package, AECOM tools, October 2019;
 Another of Victor’s contributions was to develop a Python package capable of interacting with SATURN exes and use SATURN formats. The package includes reading and writing UFMs extracting data from UFS, running assignments, producing .GIS files from a shp file, producing link flow difference plots in html format and colour coded zone data plots.
 
-### COMET enhancement for JAQU, Hertfordshire County Council, March-Dec 2019;
+#### COMET enhancement for JAQU, Hertfordshire County Council, March-Dec 2019;
 Victor undertook the adaptation of the COMET Emme based variable demand model to forecast choice responses between compliant and non-compliant vehicles, toll users and non-toll users, residents and non-residents and the different purposes, when the proposed air quality interventions were in place. He also helped understand and communicate the results.
 
-### Hertfordshire County Council (HCC), COMET Update - MRT, Sep-Oct 2019;
+#### Hertfordshire County Council (HCC), COMET Update - MRT, Sep-Oct 2019;
 Victor included the necessary changes to the Emme based variable demand model to accommodate the two new user classes, Bus-Rail and MRT. This included updating the variable demand Emme macros, extracting the information from the run outputs and handing them over with the necessary explications.
 
-### East-West Rail - Highway Network Impact Assessment in Central Bedfordshire, Network Rail, Jan-March 2019;
+#### East-West Rail - Highway Network Impact Assessment in Central Bedfordshire, Network Rail, Jan-March 2019;
 The product delivered and produced by Victor was forecasting the impact of East-West-rail’s different options on Bedfordshire roads using forecasted rail travel data and the Central Bedfordshire and Luton Transport Model (CBLTM). This encompassed translating rail travel data to vehicle trips, defining the catchment areas and distributing trips amongst these.
 
-### UTG Bus boarding/alighting model, Nexus, June-Aug 2017: Sep-Oct 2018;
+#### UTG Bus boarding/alighting model, Nexus, June-Aug 2017: Sep-Oct 2018;
 Victor Wrote a VBA based model capable of estimating alighting stations for bus senior-citizen-person card holders. The task was very data intensive and required a good understanding of VBA programming. The project had a follow-up of similar characteristics in 2018.
 
-### Luton Airport expansion, July-Aug 2018;
+#### Luton Airport expansion, July-Aug 2018;
 Victor took a major role in reviewing and recoding the SATURN network that was based on the Central Bedfordshire and Luton Transport Model (CBLTM).
 
-### A47-A11 Thickthorn Junction, H.E., Feb-Aug 2017;
+#### A47-A11 Thickthorn Junction, H.E., Feb-Aug 2017;
 Checking the SATURN network code, assessing the model’s validation, performing junction turn analysis, producing sensitivity test analysis on the network’s signals, running COBALT (COst and Benefit to Accidents – Light Touch) for the scheme, running TUBA for the scheme and reporting results, were some of the tasks Victor undertook for this project.
 
-### M1 Junction 13 to 16 SMART motorway, H.E., May 2016 - March 2017;
+#### M1 Junction 13 to 16 SMART motorway, H.E., May 2016 - March 2017;
 This was the first project Victor was involved in and it brought him the following experience: SATURN network coding, TUBA (Transport Users Benefit Appraisal) running, COBALT, MyRIAD (Motorway Reliability Incidents and Delays), Construction delay economic assessment, speed banding analysis for noise and air quality modelling and sensitivity growth testing.
 
 

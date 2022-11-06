@@ -7,6 +7,21 @@ categories: jekyll update
 {% include Analytics.html %}
 Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. In this post I link several personal projects I've worked on where I apply data science techniques and methodologies, from EDA (explanatory data analysis) to forecasting machine learning models.
 
+### Charge Point Utilisation Forecast
+
+One key part of Citi Logik's EV Insights product was the utilisation forecast. The forecasting was based on an ML model that took segmented traffic data and used it estimate the kWh of a potential charge point by giving it a score between 1 and 100. The notebook linked below is a simplified re-write version of such model that gives a good idea of how the model worked.
+
+[Charge point utilisation forecast](/Files/Charge_point_utilisation_forecast.html)
+
+### Locations Insights
+
+Another very successful product Citi Logik had was the Locations Insights. This product provided trips, visits and dwells insights for point or areas of interest. The following notebooks show how to create a plausible trip matrix and
+a simplified version of what was avaible for clients.
+
+[Trip matrix creation](/Files/Trip_matrix_creation.html)
+
+[Insights visualisation](/Files/Insights_Visualisation.html)
+
 ### New York City Airbnb Open Data
 
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
