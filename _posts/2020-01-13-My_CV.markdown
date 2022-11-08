@@ -37,8 +37,7 @@ Sep 2009 – May 2015 | University Student | MEng in Civil Engineering | Polytec
 
 **Products**
 #### Electric Vehicles Charge Point Insights and Utilisation Forecast
-Victor developed the methodology and code of the PySpark data pipeline that took MND-derived journeys to provide insights on EV trips, visits, and dwellings to evaluate potential charge points. 
-This product included a machine learning forecasting model that Victor developed. It was trained using MND traffic as input and known utilisation as a target. This was one of the top-selling products CL offered.
+Victor developed the methodology and code of the PySpark data pipeline that took MND-derived journeys to provide insights on EV trips, visits, and dwellings to evaluate potential charge points. This product included a machine learning forecasting model that Victor developed. It was trained using MND traffic as input and known utilisation as a target. This was one of the top-selling products CL offered.
 
 #### Locations Insights
 Similarly to the Electric Vehicles product above, Victor designed the end-to-end PySpark data analysis pipeline. the product that provided insights on the trips, the visits and the dwellings a point of interest or area received over the course of a period.
@@ -54,7 +53,7 @@ Victor took part in the delivery of trip demand matrices for conventional transp
 A breakthrough development was made by Victor when he re-invented the expansion methodology. The new methodology improved the reliability, reproducibility and speed of the expansion process while making it completely hands-off. This made all the other projects feasible from a technical and business perspective.
 
 #### Active Mode Detection
-Victor undertook a complete review of the active mode detection algorithm that greatly improved its performance. The new methodology used National Travel Survey data to fit behavioural trip models that could identify whether an active mode of transport (walk and cycle) was used on an observed trip.
+Victor undertook a complete review of the active mode detection algorithm, which greatly improved its performance. The new methodology used National Travel Survey data to fit behavioural trip models that could identify whether an active mode of transport (walk and cycle) was used on an observed trip.
 
 #### Zone System Creation
 The new products required a hands-off zone system creation tool that would create an ad hoc geographical zone system for any point of interest in the UK. Victor successfully undertook the task of coding such a tool in Python.
@@ -69,28 +68,28 @@ When studying a point of interest a catchment area has to be defined for trips a
 Victor worked on exploring solutions that could provide demographic information for trips and visits. He supervised junior members of the team on the use of classification algorithms that could detect and use behavioural trip-making differences between demographic segments.
 
 ### AECOM - Consultant Transport Planner - Model Development and Research (St Albans/Bedford). Build transport models, research and evaluate transport-related data
-#### A428 Black Cat to Caxton Gibbet Stage2a and Stage 3, H.E., Aug 2019 - Present;
-Stage 3: Victor studied the suitability of using TIS data in the matrix building process. He took part in the matrix building process, which was done using R. Victor developed the trip-end model in Access and helped understand the Transport users benefit appraisal (TUBA) results obtained. He finally undertook the construction delay traffic modelling and economical assessment.
+#### COMET enhancement for JAQU, Hertfordshire County Council, March-Dec 2019;
+Victor undertook the adaptation of the COMET hierarchical multinomial logit model. This model aimed at forecasting the variation in demand due to cost-motivated choices after a cordon toll was imposed. The agents modelled could be divided into air quality compliant and non-compliant vehicles, residents and non-residents and the different trip purposes. Several air-quality interventions in future-year scenarios were assessed to help decide the best course of action for the council.
 
-Stage 2a: Victor recalculated the likely region of interest for the model, participated in the SATURN coding of the scheme and performed the variable demand modelling. He also assessed the Uncertainty log used and appraised the scheme’s reliability. 
+#### A428 Black Cat to Caxton Gibbet Stage2a and Stage 3, H.E., Aug 2019 - Present;
+Stage 3: Victor studied the suitability of using TIS data in the matrix-building process. He took part in the matrix building process, which was done using R. Victor developed the trip-end model in Access and helped understand the Transport users benefit appraisal (TUBA) results obtained. He finally undertook the construction delay traffic modelling and economical assessment.
+
+Stage 2a: Victor recalculated the likely region of interest for the model, participated in the SATURN coding of the scheme and performed the variable demand modelling. He also assessed the Uncertainty log used and appraised the scheme’s reliability.
 
 #### Journey time routes processor, AECOM tools, November 2019;
 Based on an existing R process, Victor revised this and build a tool to process Traffic Master journey time data and compare it to model results using Python. The tool interacts with SATURN and automatically produces geographical route plots, validation plots and summary tables.
 
 #### AECOM_SATURN Python package, AECOM tools, October 2019;
-Another of Victor’s contributions was to develop a Python package capable of interacting with SATURN exes and use SATURN formats. The package includes reading and writing UFMs extracting data from UFS, running assignments, producing .GIS files from a shp file, producing link flow difference plots in html format and colour coded zone data plots.
-
-#### COMET enhancement for JAQU, Hertfordshire County Council, March-Dec 2019;
-Victor undertook the adaptation of the COMET Emme based variable demand model to forecast choice responses between compliant and non-compliant vehicles, toll users and non-toll users, residents and non-residents and the different purposes, when the proposed air quality interventions were in place. He also helped understand and communicate the results.
+Another of Victor’s contributions was to develop a Python package capable of interacting with SATURN exes and using SATURN formats. The package includes reading and writing UFMs extracting data from UFS, running assignments, and producing.GIS files from a shapefile, producing link flow difference plots in HTML format and colour-coded zone data plots.
 
 #### Hertfordshire County Council (HCC), COMET Update - MRT, Sep-Oct 2019;
-Victor included the necessary changes to the Emme based variable demand model to accommodate the two new user classes, Bus-Rail and MRT. This included updating the variable demand Emme macros, extracting the information from the run outputs and handing them over with the necessary explications.
+Victor included the necessary changes to the Emme-based variable demand model to accommodate the two new user classes, Bus-Rail and MRT. This included updating the variable demand Emme macros, extracting the information from the run outputs and handing them over with the necessary explications.
+
+#### UTG Bus boarding/alighting model, Nexus, June-Aug 2017: Sep-Oct 2018;
+Victor Wrote a VBA-based model capable of estimating alighting stations for bus senior-citizen-person card holders. The task was very data intensive and required a good understanding of VBA programming. The project had a follow-up of similar characteristics in 2018.
 
 #### East-West Rail - Highway Network Impact Assessment in Central Bedfordshire, Network Rail, Jan-March 2019;
 The product delivered and produced by Victor was forecasting the impact of East-West-rail’s different options on Bedfordshire roads using forecasted rail travel data and the Central Bedfordshire and Luton Transport Model (CBLTM). This encompassed translating rail travel data to vehicle trips, defining the catchment areas and distributing trips amongst these.
-
-#### UTG Bus boarding/alighting model, Nexus, June-Aug 2017: Sep-Oct 2018;
-Victor Wrote a VBA based model capable of estimating alighting stations for bus senior-citizen-person card holders. The task was very data intensive and required a good understanding of VBA programming. The project had a follow-up of similar characteristics in 2018.
 
 #### Luton Airport expansion, July-Aug 2018;
 Victor took a major role in reviewing and recoding the SATURN network that was based on the Central Bedfordshire and Luton Transport Model (CBLTM).
