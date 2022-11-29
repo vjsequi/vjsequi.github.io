@@ -8,7 +8,12 @@ categories: jekyll update
 ## Summary
 Victor's latest professional experience was as a Senior Transport Data Analyst at Citi Logik, a transport analytics company that derived most of its insights from Mobile Network Data (MND). In his role, Victor engaged in a wide range of activities such as developing new data-driven products, improving the current algorithms and gaining insights from data. He also took part in client engagement meetings, played a role in organising the analysts' team and supervised and mentored junior analysts. He worked daily with data engineers, front-end developers and product managers. The high demands of his position exposed him to a broad set of problems and situations that he was able to solve through reasoning, research, pragmatism and hard work. The area of expertise that he is most appreciative of is finding and designing solutions that bring insights from data and are useful to make informed decisions in the world.
 
-[CV](/Files/VictorJ.SequiC.V..html)
+## Key skills
+Data Science, Data Analysis, Machine Learning, Probability and Statistics, Python,  SQL, Pyspark and AWS.
+Collaborative work, Leadership,  Proactiveness, Communication, and Documentation.
+
+
+[CV](/Files/VictorJ.SequiC.V..pdf)
 
 ## Time line
 
@@ -37,10 +42,10 @@ Sep 2009 – May 2015 | University Student | MEng in Civil Engineering | Polytec
 
 **Products**
 #### Electric Vehicles Charge Point Insights and Utilisation Forecast
-Victor developed the methodology and code of the PySpark data pipeline that took MND-derived journeys to provide insights on EV trips, visits, and dwellings to evaluate potential charge points. This product included a machine learning forecasting model that Victor developed. It was trained using MND traffic as input and known utilisation as a target. This was one of the top-selling products CL offered.
+Victor developed the methodology and code of the PySpark data pipeline that took MND-derived journeys to provide insights on EV trips, visits, and dwellings. These were used to evaluate potential charge points. The product included a machine learning forecasting model that Victor developed. It was trained using MND traffic as input and known utilisation as a target. This was one of the top-selling products CL offered.
 
 #### Locations Insights
-Similarly to the Electric Vehicles product above, Victor designed the end-to-end PySpark data analysis pipeline. the product that provided insights on the trips, the visits and the dwellings a point of interest or area received over the course of a period.
+Similarly to the Electric Vehicles product above, Victor designed the end-to-end PySpark data analysis pipeline. The product provided insights on trips, visits and the dwellings that a point of interest, or area, received over the course of a period.
 
 #### Detailed Traversing Insights Research
 Victor conducted research to develop a methodology to provide detailed traversing trip insights. The methodology was based on using MND observed traces and road link network analysis to derive traversing traffic characteristics for each main-road road link in the UK.
@@ -50,7 +55,7 @@ Victor took part in the delivery of trip demand matrices for conventional transp
 
 **Tools**
 #### Expansion, From Device to Population
-A breakthrough development was made by Victor when he re-invented the expansion methodology. The new methodology improved the reliability, reproducibility and speed of the expansion process while making it completely hands-off. This made all the other projects feasible from a technical and business perspective.
+A breakthrough development was made by Victor when he redeveloped the expansion methodology. The new methodology improved the reliability, reproducibility and speed of the expansion process while making it completely hands-off. This made all the other projects feasible from a technical and business perspective.
 
 #### Active Mode Detection
 Victor undertook a complete review of the active mode detection algorithm, which greatly improved its performance. The new methodology used National Travel Survey data to fit behavioural trip models that could identify whether an active mode of transport (walk and cycle) was used on an observed trip.
@@ -59,10 +64,10 @@ Victor undertook a complete review of the active mode detection algorithm, which
 The new products required a hands-off zone system creation tool that would create an ad hoc geographical zone system for any point of interest in the UK. Victor successfully undertook the task of coding such a tool in Python.
 
 #### Cell-to-Zone Conversion
-The new products required a much higher geographical granularity to have meaningful results. Victor developed a new cell-to-zone conversion methodology that greatly increased the granularity of MND-derived trips.
+The new products also required a much higher geographical granularity to have meaningful results. Victor developed a new cell-to-zone conversion methodology that greatly increased the granularity of MND-derived trips.
 
 #### Optimal Catchment Area
-When studying a point of interest a catchment area has to be defined for trips and visits to be captured. Victor designed a Python tool that studied the cell density covering an area and allocated the optimal catchment radius.
+When studying a point of interest, a catchment area has to be defined for trips and visits to be captured. Victor designed a Python tool that studied the cell density covering an area and allocated the optimal catchment radius.
 
 #### Demographics
 Victor worked on exploring solutions that could provide demographic information for trips and visits. He supervised junior members of the team on the use of classification algorithms that could detect and use behavioural trip-making differences between demographic segments.
